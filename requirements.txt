@@ -1,4 +1,4 @@
-python-telegram-bot==24.0
+python-telegram-bot==0.24.0
 web3==6.10.0
 solana==0.27.0
 httpx==0.23.3
